@@ -7,3 +7,7 @@
 ## Lista 2 (Laços de Repetição)
 
 - Na lista 2, utilizei o Gemini para me ajudar a compreener melhor o enunciado das questões e como estruturá-las, o uso de IA também me ajudou a entender melhor como utilizar laços dentro de laços, que ainda é um pouco confuso para mim. ALém disso, utilizei a IA para identificar e corrigir alguns erros que cometi ao escrever os códigos.
+
+## Lista 3 (Arrays)
+
+- Utilozei IA principalmente para entender e estruurar as questões, bem como entender melhor como um laço percorre um array.

@@ -10,4 +10,4 @@
 
 ## Lista 3 (Arrays)
 
-- Utilozei IA principalmente para entender e estruurar as questões, bem como entender melhor como um laço percorre um array.
+- Utilizei IA principalmente para entender e estruturar as questões, bem como entender melhor como um laço percorre um array.

@@ -11,3 +11,7 @@
 ## Lista 3 (Arrays)
 
 - Utilizei IA principalmente para entender e estruturar as questões, bem como entender melhor como um laço percorre um array.
+
+## Lista 3 (Arrays bidimensionais e funções)
+
+- Para essa lista, o uso de IA foi feito principalmente para entender melhor como funcionam as funções e como utilizá-las, além de me ajudar a compreender melhor o conceito de arrays bidimensionais. A IA também me ajudou a identificar e corrigir alguns erros que cometi ao escrever os códigos, principalmente em relação à sintaxe e à lógica dos programas. Ainda não me sinto totalmente confortável com o uso de funções, mas acredito que a prática  me ajudará a entender melhor esse conceito e a utilizá-lo de maneira mais eficiente.

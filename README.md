@@ -15,3 +15,6 @@
 ## Lista 4 (Arrays bidimensionais e funções)
 
 - Para essa lista, o uso de IA foi feito principalmente para entender melhor como funcionam as funções e como utilizá-las, além de me ajudar a compreender melhor o conceito de arrays bidimensionais. A IA também me ajudou a identificar e corrigir alguns erros que cometi ao escrever os códigos, principalmente em relação à sintaxe e à lógica dos programas. Ainda não me sinto totalmente confortável com o uso de funções, mas acredito que a prática  me ajudará a entender melhor esse conceito e a utilizá-lo de maneira mais eficiente.
+
+## Lista 5 (Ponteiros)
+- Para esta lista, utilizei o suporte da IA para consolidar meu entendimento sobre ponteiros, um conceito que ainda estou amadurecendo. A ferramenta foi essencial para esclarecer o funcionamento e a sintaxe correta, além de auxiliar na depuração de erros lógicos. Embora ainda seja um desafio, sigo praticando para ganhar a fluidez necessária no uso eficiente da memória.

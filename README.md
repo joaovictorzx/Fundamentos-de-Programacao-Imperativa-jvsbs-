@@ -18,3 +18,6 @@
 
 ## Lista 5 (Ponteiros)
 - Para esta lista, utilizei o suporte da IA para consolidar meu entendimento sobre ponteiros, um conceito que ainda estou amadurecendo. A ferramenta foi essencial para esclarecer o funcionamento e a sintaxe correta, além de auxiliar na depuração de erros lógicos. Embora ainda seja um desafio, sigo praticando para ganhar a fluidez necessária no uso eficiente da memória.
+
+## Lista 6 (Estruturas de Dados)
+- Nessa lista a maior dificuldade foi entender como funciona a estrutura de dados e como utilizar de maneira eficiente, o uso de IA me ajudou a compreender melhor esses conceitos e como aplica-los nas questões. Além disso, a IA me auxilou a identificar corrigir erros que cometi nos códigos ou de trechos que pedi para refazer. No geral, a resolução dessa lista foi menos caótica que a anterior.

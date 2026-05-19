@@ -24,3 +24,6 @@
 
 ## Lista 7 (Structs)
 - Nessa lista a maior dificuldade foi entender como funciona a estrutura de dados e como utilizar de maneira eficiente, o uso de IA me ajudou a compreender melhor esses conceitos e como aplicá-los nas questões. A segunda questão (Espionagem na COPA) exigiu um esforço maior, pois demandou uma lógica minuciosa para extrair dados específicos e limpar caracteres em strings irregulares.
+
+## Lista 8 (Arquivos, Bitfields e Unions)
+- Essa lista foi até mais tranquila, o assunto não pareceu muito complexo, mas algumas questões exigiram um nível de atenção maior, principalmente em como ler e escrever arquivos, além de entender melhor como funcionam as unions. O uso de IA me ajudou a compreender melhor esses conceitos e também me ajudou na compreensão das questões (como funciona a alocação dos bits, por exemplo). Além disso, a IA me ajudou a estruturar meu código e a identificar e corrigir erros que cometi ao escrever os códigos.

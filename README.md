@@ -28,5 +28,5 @@
 ## Lista 8 (Arquivos, Bitfields e Unions)
 - Essa lista foi até mais tranquila, o assunto não pareceu muito complexo, mas algumas questões exigiram um nível de atenção maior, principalmente em como ler e escrever arquivos, além de entender melhor como funcionam as unions. O uso de IA me ajudou a compreender melhor esses conceitos e também me ajudou na compreensão das questões (como funciona a alocação dos bits, por exemplo). Além disso, a IA me ajudou a estruturar meu código e a identificar e corrigir erros que cometi ao escrever os códigos.
 
-## Lista 9 (Árvores)
+## Lista 10 (Árvores)
 - Para essa lista, o uso de IA foi essencial para entender melhor o conceito de árvores e como implementá-las em C. A IA me ajudou a compreender melhor a estrutura de uma árvore binária, como criar nós, inserir elementos e percorrer a árvore. Além disso, a IA me auxiliou a identificar e corrigir erros que cometi ao escrever os códigos, principalmente em relação à lógica de inserção e à forma de percorrer a árvore. Ainda tenho algumas dúvidas sobre o assunto, mas acredito que a prática vai me ajudar a entender melhor e a utilizar árvores.
